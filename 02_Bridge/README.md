@@ -1,6 +1,7 @@
 # :bridge_at_night:桥梁模式-Bridge
 
 :dolls:桥梁模式的目的就是要实现 ***抽象定义*** 和它的 ***实现*** 部分可以互不 ***依赖***,单独开发
+
 :scissors:抽象定义和实现的部分相互 ***分隔***,各自只在自己的类的层次结构中.
 
 ## :zap:类图
@@ -15,7 +16,7 @@
   * :bust_in_silhouette: Client (客户).
   * :elephant: AbstractDef (抽象定义). 类 AbstractDef 定义了客户可以使用的 :electric_plug:***接口***,含有指向由自己规定的接口的IImplementer的引用.
   * SpecAbstractDef (细分的抽象定义).这个类是AbstractDef的派生类,可以扩展基类的接口.
-  * electric_plug: IImplementer (实施者).接口 IImplementer 定义了需要实现的接口.必须满足类AbstractDef中方法的需要.
+  * :electric_plug: IImplementer (实施者).接口 IImplementer 定义了需要实现的接口.必须满足类AbstractDef中方法的需要.
   * :star: ConcreteImplementerA (具体实现A).接口IImplementer中定义的每一种情况都要被实现,这个任务由ConcreteImplementerA完成.
 
 ## :sunglasses:评价
