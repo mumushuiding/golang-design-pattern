@@ -2,9 +2,9 @@
 
 :house:结构模式主要记录的是类或对象的 ***静态结构***，:family:行为模式描述了通过对象间的合作形成的一种 ***关系***，:factory:创建模式用于 ***生成***对象。
 #### 目录
-  * [结构模式](#结构模式)
+  * :house: [结构模式](#结构模式)
     * :nut_and_bolt: <a href="./01_Adapter">适配器模式-Adapter</a>
-    * <a href="./02_Bridge">桥梁模式-Bridge</a>
+    * :bridge_at_night:<a href="./02_Bridge">桥梁模式-Bridge</a>
     * [装饰模式-Decorator](#装饰模式-Decorator)
     * [外观模式-Fassade](#外观模式-Fassade)
     * [组合模式-Composite](#组合模式-Composite)
@@ -12,7 +12,7 @@
   * [行为模式](#行为模式)
     * [模板方法模式-TemplateMethod](#模板方法模式-TemplateMethod)
     * [命令模式-Command](#命令模式-Command)
-    * :eyeglasses: [观察者模式-Observer](#观察者模式-Observer)
+    * :eyes: [观察者模式-Observer](#观察者模式-Observer)
     * [策略模式-Stragegy](#策略模式-Stragegy)
     * [中间者模式-Mediator](#中间者模式-Mediator)
     * [状态模式-State](#状态模式-State)
