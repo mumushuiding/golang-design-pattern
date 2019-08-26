@@ -6,13 +6,14 @@
 外观 :mask: ***隐藏*** 子系统内部结构的细节，提供一个简单并统一的<img src="./../img/pics/interface.png" width="20px" height="20px"/> ***接口*** 对子系统中的类进行调用，
 ## :zap:类图
 <img src="./../img/design-patterns-04-facade.png"/>
-## :boy:参与者
+
+## :boy: 参与者
 
 ## :sunglasses:评价
 
 ### :+1:优点
 外观模式有下列优点：
-  * 功能更:simple_smile: ***简单*** 了。
+  * 功能更 :simple_smile: ***简单*** 了。
   * 子系统同客户类之间是<img src="./../img/pics/松耦合.png" width="20px" height="20px"/> ***松耦合*** 的。
 ### :-1:缺点
 外观模式有下列缺点：
