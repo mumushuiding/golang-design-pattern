@@ -6,7 +6,7 @@
     * :nut_and_bolt: <a href="./01_Adapter">适配器模式-Adapter</a>
     * :bridge_at_night:<a href="./02_Bridge">桥梁模式-Bridge</a>
     * :christmas_tree:<a href="./03_Decorator/">装饰模式-Decorator</a>
-    * <img src="./img/pics/facade.png" style="width:20px;height:20px"/>[外观模式-Fassade](#外观模式-Fassade)
+    * <img src="./img/pics/facade.png" style="width:5px;height:5px"/>[外观模式-Fassade](#外观模式-Fassade)
     * [组合模式-Composite](#组合模式-Composite)
     * [代理模式-Proxy](#代理模式-Proxy)
   * [行为模式](#行为模式)
