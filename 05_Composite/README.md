@@ -5,7 +5,9 @@
 ## :heavy_check_mark: 解决方法
 组合模式的基础是定义一个抽象类 <img src="./../img/pics/node节点.png" width="20px" height="20px"/>Node,通过 ***接口*** 和契约确定它的行为.:leaves:叶类Leaf是Node的派生类,:no_entry_sign: ***不能*** 聚集节点. ***组合*** 对象Compoud是Node的派生类,可以:dart: ***聚集*** 多个Node节点.
 ## :zap:类图
+
 <img src="./../img/design-patterns-05-composite.png">
+
 ## :boy:参与者
 
 组合模式的参与者如下：
@@ -17,8 +19,8 @@
 ### :+1:优点
 
 优点:
-  * 叶和组合具有相同的接口,客户可以 ***统一*** 处理
-  * 可以多层 ***嵌套***
+  * <img  src="./../img/pics/统一.png" width="20px" height="20px"/>叶和组合具有相同的接口,客户可以 ***统一*** 处理
+  * <img  src="./../img/pics/嵌套.png" width="20px" height="20px"/>可以多层 ***嵌套***
 
 ### :-1:缺点
 缺点:
