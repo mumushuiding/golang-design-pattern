@@ -7,7 +7,7 @@
     * :bridge_at_night:<a href="./02_Bridge">桥梁模式-Bridge</a>
     * :christmas_tree:<a href="./03_Decorator/">装饰模式-Decorator</a>
     * <img src="./img/pics/facade.png" width="25px" height="25px"/><a href="./04_Facade/">外观模式-Fassade</a>
-    * [组合模式-Composite](#组合模式-Composite)
+    * :herb:<a href="./05_Composite/">组合模式-Composite</a>
     * [代理模式-Proxy](#代理模式-Proxy)
   * [行为模式](#行为模式)
     * [模板方法模式-TemplateMethod](#模板方法模式-TemplateMethod)
