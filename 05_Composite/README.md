@@ -7,6 +7,7 @@
 ## :zap:类图
 <img src="./../img/design-patterns-05-composite.png">
 ## :boy:参与者
+
 组合模式的参与者如下：
   * <img src="./../img/pics/node节点.png" width="20px" height="20px"/>Node (节点).抽象类Node确定了派生类的接口和行为.
   * :leaves: Leaf (叶).体现了树形结构中的一个终结元素.
