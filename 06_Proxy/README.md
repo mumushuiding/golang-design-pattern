@@ -12,21 +12,22 @@
 
 ## :zap:类图
 
+<img src="./../img/design-patterns-06-proxy.png"/>
+
 ## :boy:参与者
 
-参与者如下：
-  * <img src="./../img/pics/interface.png" width="20px" height="20px">IRealClass（实际类的接口）。确定了实际类中的方法的定义。
-  * <img src="./../img/pics/实际司机.png" width="20px" height="20px">RealClass（实际类）。实现了IRealClass中的方法
-  * <img src="./../img/pics/中介.png" width="20px" height="20px">Proxy（代理）。实现了IRealClass中的方法，并有指向实际类的 ***引用*** 。
+  * <img src="./../img/pics/interface.png" width="20px" height="20px">IRealClass（实际类的 ***接口*** ）。确定了实际类中的方法的定义。
+  * <img src="./../img/pics/实际司机.png" width="20px" height="20px">RealClass（ ***实际*** 类）。实现了IRealClass中的方法
+  * <img src="./../img/pics/中介.png" width="20px" height="20px">Proxy（ ***代理*** ）。实现了IRealClass中的方法，并有指向实际类的 ***引用*** 。
 
 ## :sunglasses:评价
 
 ### :+1:优点
-优点：
+
   * :heavy_plus_sign: 可以通过代理 ***扩展*** 已有应用
   * 可以 ***附加*** 实现实际对象不需要的操作
 
 ### :-1:缺点
-缺点：
+
   * :beetle: 增加代理 ***查错*** 困难
   * :arrow_down: ***降低*** 性能
