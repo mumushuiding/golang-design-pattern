@@ -8,7 +8,7 @@
     * :christmas_tree:<a href="./03_Decorator/">装饰模式-Decorator</a>
     * <img src="./img/pics/facade.png" width="25px" height="25px"/><a href="./04_Facade/">外观模式-Fassade</a>
     * :herb:<a href="./05_Composite/">组合模式-Composite</a>
-    * [代理模式-Proxy](#代理模式-Proxy)
+    * <img src="./img/pics/中介.png" width="25px" height="25px"/><a href="./06_Proxy/">代理模式-Proxy</a>
   * [行为模式](#行为模式)
     * [模板方法模式-TemplateMethod](#模板方法模式-TemplateMethod)
     * [命令模式-Command](#命令模式-Command)
