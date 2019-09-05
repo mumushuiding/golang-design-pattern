@@ -12,7 +12,7 @@
   * [行为模式](#行为模式)
     * <img src="./img/pics/模板.png" width="25px" height="25px"/><a href="./07_Template/">模板方法模式-TemplateMethod</a>
     * <img src="./img/pics/命令行.png" width="25px" height="25px"/><a href="./08_Command/">命令模式-Command</a>
-    * :eyes: [观察者模式-Observer](#观察者模式-Observer)
+    * :eyes:<a href="./09_Observer/">观察者模式-Observer</a>
     * [策略模式-Stragegy](#策略模式-Stragegy)
     * [中间者模式-Mediator](#中间者模式-Mediator)
     * [状态模式-State](#状态模式-State)
