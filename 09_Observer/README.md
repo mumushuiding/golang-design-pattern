@@ -18,7 +18,7 @@
   * IObservable （可观察的接口）。接口中含有对观察者的:memo: ***登记*** 和:x: ***注销*** 以及抽象方法取状态。
   * IObserver （观察者接口）。是可观察类（Observable）的回调接口。接口由一个观察者实现
   * :dart: Observable （可观察类）。包含指向观察类对象的引用列表。
-  * :eys: Observer （观察者类）。
+  * :eyes: Observer （观察者类）。
 ## :sunglasses:评价
 
 ### :+1:优点
