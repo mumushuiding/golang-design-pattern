@@ -14,7 +14,7 @@
     * <img src="./img/pics/命令行.png" width="25px" height="25px"/><a href="./08_Command/">命令模式-Command</a>
     * :eyes:<a href="./09_Observer/">观察者模式-Observer</a>
     * <img src="./img/pics/策略 国际象棋.png" width="25px" height="25px"/><a href="./10_strategy/">策略模式-Strategy</a>
-    * [中间者模式-Mediator](#中间者模式-Mediator)
+    * <img src="./img/pics/中间者1.png" width="25px" height="25px"/><a href="./11_Mediator/">中间者模式-Mediator</a>
     * [状态模式-State](#状态模式-State)
     * [角色模式-Role](#角色模式-Role)
     * [访问者模式-Visitor](#访问者模式-Visitor)
@@ -24,38 +24,3 @@
     * [抽象工厂-AbstractFactory](#抽象工厂-AbstractFactory)
     * [单例模式-Singleton](#单例模式-Singleton)
     * [对象池模式-Pool](#对象池模式-Pool)
-
-## 结构模式
-
-
-
-## 行为模式
-
-
-### 模板方法模式-TemplateMethod
-
-### 命令模式-Command
-
-### 观察者模式-Observer
-
-### 策略模式-Stragegy
-
-### 中间者模式-Mediator
-
-### 状态模式-State
-
-### 角色模式-Role
-
-### 访问者模式-Visitor
-
-### 迭代器模式-Iterator
-
-## 创建型模式
-
-### 工厂方法-FactoryMethod
-
-### 抽象工厂-AbstractFactory
-
-### 单例模式-Singleton
-
-### 对象池模式-Pool
